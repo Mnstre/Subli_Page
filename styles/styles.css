@@ -1,0 +1,11 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+.body {
+    background-color: black;
+    color: blue;
+}
